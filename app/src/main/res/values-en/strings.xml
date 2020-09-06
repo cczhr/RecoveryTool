@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recovery Tool</string>
+    <string name="common">Common</string>
+    <string name="command">Command</string>
+    <string name="twrp">TWRP</string>
+    <string name="about">About</string>
+    <string name="source_code">Source code</string>
+    <string name="reboot_recovery">Reboot recovery</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="show_commands">Show commands</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="input_cannot_be_empty">The input cannot be empty</string>
+</resources>
