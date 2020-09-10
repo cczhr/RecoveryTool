@@ -15,7 +15,7 @@ val RECOVERY_PATH = "/cache/recovery/"
 val TWRP_FILE = "openrecoveryscript"
 val COMMAND_FILE = "command"
 val TWRP_COMMAND= arrayOf("install","decrypt","wipe data","wipe cache","wipe system")
-val COMMOM_COMMAND= arrayOf("update package","wipe data","wipe cache")
+val COMMOM_COMMAND= arrayOf("update_package","wipe_data","wipe_cache")
 fun runCommand(command: String) {
     Runtime.getRuntime().exec("su").apply {
         outputStream.apply {

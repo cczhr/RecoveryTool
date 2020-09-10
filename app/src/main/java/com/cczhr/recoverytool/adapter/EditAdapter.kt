@@ -33,7 +33,6 @@ class EditAdapter(var editText: EditText,var onClickListener: (type: Int, positi
 
 
     fun commonCommand() {
-        editText.setText("")
         type = 1
         val size = data.size
         data.clear()
@@ -43,7 +42,6 @@ class EditAdapter(var editText: EditText,var onClickListener: (type: Int, positi
     }
 
     fun twrpCommand() {
-        editText.setText("")
         type = 2
         val size = data.size
         data.clear()
