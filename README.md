@@ -9,9 +9,13 @@
 https://twrp.me/faq/openrecoveryscript.html
 https://android.googlesource.com/platform/bootable/recovery/+/ics-mr1/recovery.c
 
-![](/pic/1.jpg)
-![](/pic/2.jpg)
-![](/pic/3.jpg)
-![](/pic/4.jpg)
-![](/pic/5.jpg)
-![](/pic/6.jpg)
+
+<p>
+   <img src="pic/1.jpg" width="30%" height="30%">
+   <img src="pic/2.jpg" width="30%" height="30%">
+   <img src="pic/3.jpg" width="30%" height="30%">
+   <img src="pic/4.jpg" width="30%" height="30%">
+   <img src="pic/5.jpg" width="30%" height="30%">
+   <img src="pic/6.jpg" width="30%" height="30%">
+</p>
+
